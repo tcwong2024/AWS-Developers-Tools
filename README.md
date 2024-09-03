@@ -1,5 +1,10 @@
-# AWS-Developers-Tools
-AWS Cloud Services Topic Sharing Developers Tools
+# AWS Developers Tools
+
+This session focuses on sharing individual topics related to AWS Cloud Services using Developer Tools.
+
+The demo involves building an Angular web application called **'Cycling Experience'*** and hosting it on AWS Cloud.
+
+Please review the presentation documents under ***'CE7 Topic Sharing Developer Tools'***.
 
 [CodeBuild Demo Video](https://drive.google.com/file/d/1RNTUAjEKie2S3xtPUt5OOUUXemIJYqxT/view?usp=sharing)
 
