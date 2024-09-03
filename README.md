@@ -1,8 +1,8 @@
 # AWS-Developers-Tools
 AWS Cloud Services Topic Sharing Developers Tools
 
-[CodeBuild Video](https://drive.google.com/file/d/1RNTUAjEKie2S3xtPUt5OOUUXemIJYqxT/view?usp=sharing)
+[CodeBuild Demo Video](https://drive.google.com/file/d/1RNTUAjEKie2S3xtPUt5OOUUXemIJYqxT/view?usp=sharing)
 
-[CodeDeploy Video](https://drive.google.com/file/d/1V46JOsDhofGv3ReaT2iMSh3ExRz03HhT/view?usp=sharing)
+[CodeDeploy Demo Video](https://drive.google.com/file/d/1V46JOsDhofGv3ReaT2iMSh3ExRz03HhT/view?usp=sharing)
 
-[CodePipeline Video](https://drive.google.com/file/d/1pFxe7zWArOpfVxY3s4Gx92y4Of5qaEVg/view?usp=sharing)
+[CodePipeline Demo Video](https://drive.google.com/file/d/1pFxe7zWArOpfVxY3s4Gx92y4Of5qaEVg/view?usp=sharing)
